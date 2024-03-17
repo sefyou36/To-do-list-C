@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1710716732 source:c:\users\sefyou\documents\xuanzhi9\pictures\to do list\main.c
+	<stdio.h>
+	"taches.h"
+	"taches.c"
+	"affichage_taches.c"
+	"marquage_tache.c"
+	"supprimer_tache.c"
+
+1710717342 c:\users\sefyou\documents\xuanzhi9\pictures\to do list\taches.h
+
+1710717224 c:\users\sefyou\documents\xuanzhi9\pictures\to do list\taches.c
+	"taches.h"
+	<stdio.h>
+
+1710717016 c:\users\sefyou\documents\xuanzhi9\pictures\to do list\affichage_taches.c
+	"taches.h"
+
+1710717016 c:\users\sefyou\documents\xuanzhi9\pictures\to do list\marquage_tache.c
+	"taches.h"
+
+1710717016 c:\users\sefyou\documents\xuanzhi9\pictures\to do list\supprimer_tache.c
+	"taches.h"
+
